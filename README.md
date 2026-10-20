@@ -8,7 +8,7 @@ It does **not** contain plugin source code. Development happens in the main app 
 
 ## Install
 
-1. Download `plugin-youtube.zip` from the [latest release](https://github.com/stream-kit-app/plugin-youtube/releases/latest).
+1. Download `plugin-youtube.zip` from the [latest release](https://github.com/cuespark/plugin-youtube/releases/latest).
 2. Open **Stream Kit** → **Plugins** → **Install plugin**.
 3. Select the zip file and enable the plugin.
 
