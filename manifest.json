@@ -9,5 +9,5 @@
   "cuesparkVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/cuespark/plugin-youtube/main/manifest.json",
   "downloadUrl": "https://github.com/cuespark/plugin-youtube/releases/download/v0.2.0-alpha.7/plugin-youtube.zip",
-  "sha256": "92aa17a324345558a10c44072daff2bf875768128a38f03bd093a413b48feffe"
+  "sha256": "fddc9c9615801ba683a8897bc3a5f6dd2e35da5f25aa0e7e9de14e340c486b18"
 }
